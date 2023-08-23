@@ -6,15 +6,6 @@
 
 Welcome to MyPasswordGenerator project! This command-line based password generator application is designed to help you create secure passwords for various accounts and purposes. It provides different levels of password strength and customization options to suit your security needs.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Usage](#usage)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 In the age of digital security, having strong and unique passwords is essential to protect your sensitive information. MyPasswordGenerator aims to provide an easy-to-use command-line interface for generating secure passwords. It offers multiple levels of password strength, allowing you to choose the appropriate level of security for your needs.
